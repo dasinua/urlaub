@@ -1,0 +1,26 @@
+{
+  "name": "urlaub-gulp",
+  "version": "1.0.0",
+  "description": "urlaub-gulp",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "dasinua"
+  },
+  "keywords": [
+    "urlaub"
+  ],
+  "author": "das",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.12.12",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean-css": "^2.0.10",
+    "gulp-sass": "^2.3.1",
+    "gulp-uglify": "^1.5.3",
+    "gulp-useref": "^3.1.0",
+    "run-sequence": "^1.2.1"
+  }
+}
